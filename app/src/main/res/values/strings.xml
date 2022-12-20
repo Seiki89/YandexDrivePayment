@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">YandexPayment</string>
+    <string name="enter">ВХОД</string>
+    <string name="change_pass">СМЕНИТЬ ПАРОЛЬ</string>
+    <string name="exit">ВЫХОД</string>
+    <string name="input_password">Введите пароль</string>
+
+    <string name="selected_item">Выберан месяц:</string>
+    <string-array name="MonthSpinner">
+        <item>Выберите месяц:</item>
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+
+    <string name="selected_item2">Выберан месяц:</string>
+    <string-array name="QuartSpinner">
+        <item>Выберите квартал:</item>
+        <item>1-(Январь-Март)</item>
+        <item>2-(Апрель-Июнь)</item>
+        <item>3-(Июль-Сентябрь)</item>
+        <item>4-(Октябрь-Декабрь)</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+</resources>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/done"
+        android:icon="@drawable/ic_pass_done"
+        android:title="@string/enter"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/pass"
+        android:icon="@drawable/ic_pass_pass"
+        android:title="@string/change_pass"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/exit"
+        android:icon="@drawable/ic_pass_exit"
+        android:title="@string/exit"
+        android:orderInCategory="100"
+        />
+
+</menu>

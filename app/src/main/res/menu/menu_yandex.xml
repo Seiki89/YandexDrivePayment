@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/sum_day"
+        android:icon="@drawable/ic_ya_day"
+        android:title="ДЕНЬ"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/sum_week"
+        android:icon="@drawable/ic_ya_week"
+        android:title="НЕДЕЛЯ"
+        android:orderInCategory="200"
+        />
+    <item
+        android:id="@+id/sum_month"
+        android:icon="@drawable/ic_ya_month"
+        android:title="МЕСЯЦ"
+        android:orderInCategory="300"
+        />
+    <item
+        android:id="@+id/sum_quarter"
+        android:icon="@drawable/ic_ya_quat"
+        android:title="КВАРТАЛ"
+        android:orderInCategory="400"
+        />
+    <item
+        android:id="@+id/exit"
+        android:icon="@drawable/ic_pass_exit"
+        android:title="@string/exit"
+        android:orderInCategory="500"
+        />
+</menu>
